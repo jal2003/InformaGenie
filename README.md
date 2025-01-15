@@ -61,7 +61,7 @@ Follow these steps to get InformaGenie up and running on your local machine:
 
 ## **Future Enhancements**
 
-🌐 Support for additional websites: Expanding the range of web sources.
-🧠 Better contextual understanding: Fine-tuning the LLM for more nuanced responses.
-📊 Data visualization: Displaying results in graphs and tables for richer insights.
+- 🌐 Support for additional websites: Expanding the range of web sources.
+- 🧠 Better contextual understanding: Fine-tuning the LLM for more nuanced responses.
+- 📊 Data visualization: Displaying results in graphs and tables for richer insights.
 
